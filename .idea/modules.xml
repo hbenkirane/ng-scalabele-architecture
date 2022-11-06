@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/angular-architecture.iml" filepath="$PROJECT_DIR$/.idea/angular-architecture.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/ng-scalabele-architecture.iml" filepath="$PROJECT_DIR$/.idea/ng-scalabele-architecture.iml" />
     </modules>
   </component>
 </project>
